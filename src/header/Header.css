@@ -1,0 +1,36 @@
+.header-container{
+    margin: 100px 0px;
+}
+
+.header-image{
+    display: block;
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+    transition: min-width 1s, max-width 1s;
+}
+
+.header-image-expanded{
+    min-width: 300px;
+    max-width: 400px;
+}
+
+.header-image-shrink{
+    min-width: 100px;
+    max-width: 150px;
+}
+
+.header-text{
+    display: block;
+    margin:35px 0px;
+    transition: font-size 1s;
+
+}
+
+.header-text-expanded{
+    font-size: 45px;
+}
+
+.header-text-shrink{
+    font-size: 27px;
+}

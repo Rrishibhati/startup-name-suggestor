@@ -1,0 +1,20 @@
+.card-container {
+    min-width: 250px;
+    border: 1px solid #880c9f;
+    display: flex;
+    justify-content: center;
+    padding: 20px 19px;
+    border-radius: 20px;
+    background: #880c9f;
+    font-size: 30px;
+    box-shadow: 0px 0px 7px #888888;
+    margin: 10px 20px;
+}
+
+.result-box-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px auto;
+}

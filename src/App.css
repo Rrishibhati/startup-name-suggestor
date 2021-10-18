@@ -1,0 +1,11 @@
+body{
+    background-color:#090937;
+    color:#fff;
+    width: 100%;
+}
+
+.app-container
+{
+   text-align: center;
+   float: middle;
+}
