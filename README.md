@@ -29,4 +29,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `Summery`
+
+The aim of this project to suggest cool domain names to customer.
+As customer start type the keyword then request send to the api. which will generate the cool name suggestion for the domain.
+Also implemented a interative UI with flex box styling.
+
+Here I've covered basic fundamentals of React & npm modules.
+cover basic understanding of class & function component, state management, props & life cycle of component etc.
+
+Looking forward to enhance this project by implementating the wishlist of domain names with backend technology Node JS. 
