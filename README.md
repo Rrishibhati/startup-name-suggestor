@@ -29,9 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `Summery`
+### `Summary`
 
-The aim of this project to suggest cool domain names to customer.
+The aim of this project to suggest cool domain names to customer & show wheather this domain is available or not.
 As customer start type the keyword then request send to the api. which will generate the cool name suggestion for the domain.
 Also implemented a interative UI with flex box styling.
 
